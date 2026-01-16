@@ -1,0 +1,6 @@
+## Interface: 110200
+## Title: Typing Tracker
+## Notes: Shows who is typing
+## SavedVariables: TypingTrackerDB
+
+TypingTracker.lua
