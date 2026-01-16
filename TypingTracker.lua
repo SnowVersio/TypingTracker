@@ -1,7 +1,7 @@
 -- // Typing Tracker
 -- // Written by SnowVersio
 
--- // This addon was written for RP purposes to track when people are typing. It's designed to work in groups (possibly ungrouped, to be explored)
+-- // This addon was written for RP purposes to track when people are typing. It's designed to work in groups at this point.
 -- // This is very roughly put together and realistically will need rewriting using something like AceComm
 -- // For now I wanted to test the theory and effectiveness, and it works well even with blizz frames (unmoveable)
 -- // This will be re-written eventually, after Midnight has dropped and I have focus again.
@@ -131,3 +131,4 @@ C_Timer.NewTicker(1, function()
     end
     UpdateFrame()
 end)
+
